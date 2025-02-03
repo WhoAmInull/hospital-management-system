@@ -65,10 +65,10 @@ npm start
 
 ## 🏛️ Database Schema & Diagrams
 ### **📌 ER Diagram**
-*(Insert ER diagram screenshot here)*
+*ERdiagram.png*
 
 ### **📌 UML Diagram**
-*(Insert UML diagram screenshot here)*
+*DBschema.png*
 
 ## 📜 API Endpoints
 | Method | Endpoint | Description |
