@@ -64,11 +64,13 @@ npm start
 ```
 
 ## 🏛️ Database Schema & Diagrams
+
 ### **📌 ER Diagram**
-*ERdiagram.png*
+![ER Diagram](ERdiagram.png)
 
 ### **📌 UML Diagram**
-*DBschema.png*
+![UML Diagram](DBschema.png)
+
 
 ## 📜 API Endpoints
 | Method | Endpoint | Description |
